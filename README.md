@@ -1,2 +1,0 @@
-# pomchi
-try this
